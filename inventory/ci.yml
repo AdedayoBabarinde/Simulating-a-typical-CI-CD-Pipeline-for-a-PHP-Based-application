@@ -4,7 +4,6 @@
 [nginx]
 172.31.28.199
 
-[sonarqube]
-<SonarQube-Private-IP-Address>
-[artifact_repository]
-<Artifact_repository-Private-IP-Address>
+
+[db]
+172.31.25.14 ansible_ssh_user='ubuntu'
