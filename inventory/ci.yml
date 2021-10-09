@@ -2,8 +2,8 @@
 172.31.16.200
 
 [nginx]
-172.31.28.199
+172.31.21.145
 
 
 [db]
-172.31.25.14 ansible_ssh_user='ubuntu'
+172.31.28.231 ansible_ssh_user='ubuntu'
